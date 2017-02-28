@@ -1,0 +1,47 @@
+My Web page by Fred <br>
+
+<a href="http://google.ca">Google</a><br>
+
+<img src="http://i.dailymail.co.uk/i/pix/2012/03/18/article-0-1238DE0B000005DC-358_634x493.jpg"><br>
+
+<table border=1>
+<tr> <td>1dfhdfh</td>  <td>2dfghdeh</td>   </tr>
+<tr> <td>3dfhdfdh</td>  <td>4dfhdfh</td>   </tr>
+</table>
+
+You do a 3 x 4 table
+
+<form name="myForm01" >
+  Enter your first name: 
+  <input type=text value="" placeholder="Fred"><br>
+  Enter a password: <input type="password" ><br>
+  ????? <input type="checkbox"><br>
+  ????? <input type="radio"><br>
+  ????? <input type="file"><br>
+  ????? <input type="range"><br>
+  ????? <input type="reset"><br>
+  ????? <input type="submit" title="click to send"><br>
+  ????? <input type="button" value="do not click"><br>
+    
+<textarea rows=4 cols=70>
+    Hi This is a pargraph
+</textarea>    
+
+<select >
+    <option ></option>
+    <option >wow</option>
+    <option >wow</option>
+    <option >wow</option>
+    <option >wow</option>
+    
+</select>    
+    
+    
+</form>
+
+
+
+
+
+
+    
