@@ -6,11 +6,11 @@
     
 function myOb(x){
         
-this.myX = x;
+this.myX = x*5;
         
 this.myFun = function(){
             
-document.getElementById('myDiv').innerHTML = 'The passed variable is ' + this.myX
+document.getElementById('myDiv').innerHTML = 'The passed variable is ' + this.myX + ' but x = '+ x
         
 }
     
@@ -24,7 +24,7 @@ document.getElementById('myDiv').innerHTML = 'The passed variable is ' + this.my
 
 
 
-<input type=button value=click2 onclick="{
+<input type=button value=click3 onclick="{
 
     
 myObject = new myOb(3232)
